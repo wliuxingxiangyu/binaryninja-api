@@ -198,6 +198,8 @@ private Q_SLOTS:
 	void defineName();
 	void undefineName();
 	void createFunc();
+	void setUserVariableValue();
+	void clearUserVariableValue();
 	void defineFuncName();
 	void undefineFunc();
 	void reanalyze();
